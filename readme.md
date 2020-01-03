@@ -5,6 +5,7 @@
 。。。<待续>。。。
 
 ### 2.代码制度  
+
 1.`缩进一律2个空格。一行不超过120个字符`  
 2.`变量全部用let和const ,尽量都在顶部声明，如果必须设置全局变量或者常量，书写规则全部大写，设置在独立的代码块中。`    
 
@@ -64,3 +65,9 @@ async function someAsyncFunc() {
 
 ### 3.交流制度  
 。。。<待续>。。。
+
+
+
+#### PS：有些规则借鉴了Airbnb和Google的风格，这里放上资源，因人而异。
+https://github.com/airbnb/javascript  
+https://google.github.io/styleguide/jsguide.html  
