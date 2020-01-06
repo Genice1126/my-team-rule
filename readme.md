@@ -68,6 +68,8 @@ async function someAsyncFunc() {
 
 
 
-#### PS：有些规则借鉴了Airbnb和Google的风格，这里放上资源，因人而异。
+#### PS：有些规则借鉴了Airbnb和Google的风格，这里放上资源，因人而异。后两个资源也不错，也可以参考！
 https://github.com/airbnb/javascript  
 https://google.github.io/styleguide/jsguide.html  
+https://github.com/standard/standard/blob/master/docs/README-zhcn.md
+https://github.com/rwaldron/idiomatic.js/tree/master/translations/zh_CN
